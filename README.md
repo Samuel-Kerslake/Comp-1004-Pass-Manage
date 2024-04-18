@@ -1,2 +1,2 @@
-# Comp-1004-Pass-Manage
-My comp 1004 Password manager
+This is my project for comp 1004. it is a password manager that will allow the user to, after signing in, save passwords and usernames and then retrieve passwords depending the username provided. it also comes with an
+area that allow the user the create a password and it checks to make sure that it contains a few basic things like capitals numbers and hasa minimum length so that any password created using it will have a base level of security. as a while its quite a basic spa due to the fact that coding isnt my strong suit and i wanted to focus more time towards my report because im hoping that i get the points i need from this.
